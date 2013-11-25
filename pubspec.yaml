@@ -1,0 +1,5 @@
+name: test_server
+description: A sample web application
+dependencies:
+  browser: any
+  stream: any
